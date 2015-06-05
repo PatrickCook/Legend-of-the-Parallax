@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="16" height="13" tilewidth="50" tileheight="50">
+ <tileset firstgid="1" name="SpriteSheet" tilewidth="50" tileheight="50">
+  <image source="../../../Desktop/SpriteSheet.png" width="250" height="250"/>
+ </tileset>
+ <layer name="Tile Layer 1" width="16" height="13">
+  <data encoding="base64" compression="zlib">
+   eJyVUe0KgzAQqzQHLUPXjbnt/Z/UE+4ghDrYj3Ce5qONVkoxx3DA0WKvgXw+v/UJkjeEz0guZL6JP0Rjou3iA/JRfbvw0DuAeB/Hg/z0Hprdg2OSC9ExH5L7qyfufKWcnHfHLfavY4/z10lOo4zUJbK79aJ/3beJ/uzuOdFp71U8XvL/IXm8Q94tkvEPUm+0N+qJ+wPl8FmWmAfY1AVn
+  </data>
+ </layer>
+</map>
